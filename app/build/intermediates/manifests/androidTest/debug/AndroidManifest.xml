@@ -3,8 +3,8 @@
     package="com.hoho.android.usbserial.test" >
 
     <uses-sdk
-        android:minSdkVersion="12"
-        android:targetSdkVersion="12" />
+        android:minSdkVersion="21"
+        android:targetSdkVersion="21" />
 
     <instrumentation
         android:name="android.test.InstrumentationTestRunner"

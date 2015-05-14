@@ -17,7 +17,7 @@ To fix this issue, set the `targetSdkVersion` to the highest available value. Th
         errorLine2="        ~~~~~~~~~~~~~~~~~~~"
         quickfix="studio">
         <location
-            file="/Users/shohei/.ghq/github.com/shohei/UsbSerialLibrary/app/build.gradle"
+            file="/Users/shohei/.ghq/github.com/shohei/usb-serial-for-android/app/build.gradle"
             line="9"
             column="9"/>
     </issue>
@@ -33,7 +33,7 @@ To fix this issue, set the `targetSdkVersion` to the highest available value. Th
         errorLine1="    &lt;uses-sdk android:minSdkVersion=&quot;12&quot; />"
         errorLine2="              ~~~~~~~~~~~~~~~~~~~~~~~~~~">
         <location
-            file="/Users/shohei/.ghq/github.com/shohei/UsbSerialLibrary/app/src/main/AndroidManifest.xml"
+            file="/Users/shohei/.ghq/github.com/shohei/usb-serial-for-android/app/src/main/AndroidManifest.xml"
             line="6"
             column="15"/>
     </issue>
