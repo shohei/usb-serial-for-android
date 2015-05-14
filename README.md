@@ -1,6 +1,8 @@
 #usb-serial-for-android
 最新版のライブラリだとうまく動いてない
 
+しばらくはこっちを使う　https://github.com/shohei/arduconrol
+
 https://github.com/mik3y/usb-serial-for-android
 
 ```groovy
