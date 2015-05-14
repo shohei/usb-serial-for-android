@@ -31,3 +31,6 @@ task makeJar(type: Copy) {
     rename('classes.jar', "usb-serial-for-android-v010.jar")
 }
 makeJar.dependsOn(clearJar, build)
+
+
+
