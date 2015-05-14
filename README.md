@@ -1,4 +1,6 @@
 #usb-serial-for-android
+最新版のライブラリだとうまく動いてない
+
 https://github.com/mik3y/usb-serial-for-android
 
 ```groovy
